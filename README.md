@@ -22,4 +22,8 @@ Explore the innovative landscape of products built on C# and .NET. From groundbr
 
 In each episode, we unwrap the latest tips, dive into best practices, and explore exciting updates that shape the ever-evolving C# and .NET universe. Our compact format ensures you receive a dynamic learning experience that's both time-efficient and impactful.
 
-## Call for Speakers
+## 📢 Call for Speakers
+
+Are you passionate about C# and .NET development? Do you have valuable insights, tips, best practices, or exciting updates to share with a dynamic community of fellow developers? We're thrilled to invite you to be a part of "A Dash of .NET," a show dedicated to delivering bite-sized excellence in the world of C# and .NET.
+
+### [Apply Here](https://sessionize.com/a-dash-of-dotnet/)
