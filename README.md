@@ -2,7 +2,7 @@
 
 Welcome to **"A Dash of .NET"** a show that brings you quick and engaging insights into the vibrant world of C# and .NET development. We're here to spice up your coding journey with concise sessions that are packed with tips, best practices, and exciting updates.
 
-## Show host and Organiser : [Stephen SIMON]([https://duckduckgo.com](https://www.youtube.com/stephensimon))
+## Show host and Organiser : [Stephen SIMON](https://www.youtube.com/stephensimon)
 
 ![A-Dash-of-dotNet-Show-New](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/07d5d374-577d-4c4d-a30a-649d85ebb832)
 
