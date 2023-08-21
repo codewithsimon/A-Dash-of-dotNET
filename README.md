@@ -4,8 +4,7 @@ Welcome to **"A Dash of .NET"** a show that brings you quick and engaging insigh
 
 ## Show host and Organiser : [Stephen SIMON](https://www.youtube.com/stephensimon)
 
-![A-Dash-of-dotNet-Show-New](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/07d5d374-577d-4c4d-a30a-649d85ebb832)
-
+![Host-Announcement-Banner](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/cfd8a740-9569-491a-854b-ad1a32b5e08f)
 
 ### 🚀 Show Highlights:
 
