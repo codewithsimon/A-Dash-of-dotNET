@@ -4,7 +4,8 @@ Welcome to **"A Dash of .NET"** a show that brings you quick and engaging insigh
 
 ## Show host and Organiser : [Stephen SIMON](https://www.youtube.com/stephensimon)
 
-![Host-Announcement-Banner](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/cfd8a740-9569-491a-854b-ad1a32b5e08f)
+![Host-Announcement-Banner](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/ecc3db58-4d83-4244-9466-29a761487dc7)
+
 
 ### 🚀 Show Highlights:
 
@@ -26,4 +27,4 @@ In each episode, we unwrap the latest tips, dive into best practices, and explor
 
 Are you passionate about C# and .NET development? Do you have valuable insights, tips, best practices, or exciting updates to share with a dynamic community of fellow developers? We're thrilled to invite you to be a part of "A Dash of .NET," a show dedicated to delivering bite-sized excellence in the world of C# and .NET.
 
-### [Apply Here](https://sessionize.com/a-dash-of-dotnet/)
+### 👉 [Apply Here](https://sessionize.com/a-dash-of-dotnet/)
