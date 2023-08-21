@@ -2,6 +2,9 @@
 
 Welcome to **"A Dash of .NET"** a show that brings you quick and engaging insights into the vibrant world of C# and .NET development. We're here to spice up your coding journey with concise sessions that are packed with tips, best practices, and exciting updates.
 
+![A-Dash-of-dotNet-Show-New](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/07d5d374-577d-4c4d-a30a-649d85ebb832)
+
+
 ### 🚀 Show Highlights:
 
 Discover the essence of C# and .NET in a compact format that respects your time. Our show is tailor-made for developers seeking valuable nuggets of wisdom without compromising on depth.
@@ -12,7 +15,7 @@ Join us as we dive into a variety of topics that matter to developers. Our sessi
 
 ### 🌟 Product Showcase:
 
-### Explore the innovative landscape of products built on C# and .NET. From groundbreaking applications to ingenious tools, we shine a spotlight on the incredible creations that harness the power of these technologies. Our product showcases reveal the endless possibilities within the C# and .NET ecosystem.
+Explore the innovative landscape of products built on C# and .NET. From groundbreaking applications to ingenious tools, we shine a spotlight on the incredible creations that harness the power of these technologies. Our product showcases reveal the endless possibilities within the C# and .NET ecosystem.
 
 ### 🎯 Bite-Sized Learning, Boundless Insights:
 
