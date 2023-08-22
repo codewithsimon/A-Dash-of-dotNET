@@ -39,6 +39,10 @@ We can’t follow up on an anonymous report with you directly, but we will fully
 ## Personal Report
 Our team will be happy to help you contact personally and assist you to feel safe for the duration of the event. We value your attendance.
 
+
+
 **Stephen SIMON**
+
 a.setephensimon@outlook.com
+
 @codewithsimon
