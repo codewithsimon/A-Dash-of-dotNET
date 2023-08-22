@@ -32,7 +32,7 @@ You can make a report either personally or anonymously.
 ## Anonymous Report
 
 You can make an anonymous report on the below link.
-(Report Here)[https://forms.office.com/r/vaEkmapViK]
+[Report Here](https://forms.office.com/r/vaEkmapViK)
 
 We can’t follow up on an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 
