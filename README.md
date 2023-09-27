@@ -2,7 +2,9 @@
 
 Welcome to **"A Dash of .NET"** a show that brings you quick and engaging insights into the vibrant world of C# and .NET development. We're here to spice up your coding journey with concise sessions that are packed with tips, best practices, and exciting updates.
 
-## Show host : [Stephen SIMON](https://twitter.com/codewithsimon)
+## Streaming at 📺 [CSharp.TV ](https://www.c-sharpcorner.com/live/)
+
+### Show host 🎤 : [Stephen SIMON](https://twitter.com/codewithsimon)
 
 ![A-Dash-of-dotNet-Show](https://github.com/codewithsimon/A-Dash-of-dotNET/assets/68376360/ea21f6f9-1517-462d-ae23-283889205d29)
 
